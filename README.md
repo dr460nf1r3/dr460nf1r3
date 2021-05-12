@@ -2,7 +2,7 @@
 <h3 align="center">I am a Linux enthusiast and hobby developer from germany.</h3>
 
 Im currently working as:
-- Developer at [Garuda Linux](https://garudalinux.org), maintaining the servers & some of its editions.
+- Developer at [Garuda Linux](https://garudalinux.org), maintaining the servers & some of its editions. [![Download Garuda Linux](https://img.shields.io/sourceforge/dt/garuda-linux.svg)](https://sourceforge.net/projects/garuda-linux/files/latest/download)
 - Maintainer at [Chaotic-AUR](https://chaotic.cx), an Arch user repository which also happens to be the repo of Garuda Linux.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dr460nf1r3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
