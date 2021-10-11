@@ -4,7 +4,7 @@
 Im currently working as:
 - Developer at [Garuda Linux](https://garudalinux.org), maintaining the servers & some of its editions. [![Download Garuda Linux](https://img.shields.io/sourceforge/dt/garuda-linux.svg)](https://sourceforge.net/projects/garuda-linux/files/latest/download) If you love dark and blurry interfaces, the dr460nized edition might be something for you 🐉
 
-<img src=https://garudalinux.org/images/garuda/download/dr460nized/garuda-dr460nized.png/>
+<img src=https://gitlab.com/garuda-linux/website/garuda/-/raw/master/images/garuda/download/dr460nized/garuda-dr460nized.png/>
 
 - Maintainer at [Chaotic-AUR](https://chaotic.cx), an Arch user repository which also happens to be the repo of Garuda Linux.
 
