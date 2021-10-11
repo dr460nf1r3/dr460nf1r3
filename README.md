@@ -2,7 +2,7 @@
 <h3 align="center">I am an avid Linux enthusiast and hobby developer from Germany 🇩🇪</h3>
 
 Im currently working as:
-- Developer at [Garuda Linux](https://garudalinux.org), maintaining the servers & some of its editions. [![Download Garuda Linux](https://img.shields.io/sourceforge/dt/garuda-linux.svg)](https://sourceforge.net/projects/garuda-linux/files/latest/download) If you love dark and blurry interfaces, the dr460nized edition might be something for you 🐉
+- Developer at [Garuda Linux](https://garudalinux.org), maintaining the servers & some of its editions. If you love dark and blurry interfaces, the dr460nized edition might be something for you 🐉 [![Download Garuda Linux](https://img.shields.io/sourceforge/dt/garuda-linux.svg)](https://sourceforge.net/projects/garuda-linux/files/latest/download) 
 
 <img src=https://gitlab.com/garuda-linux/website/garuda/-/raw/master/images/garuda/download/dr460nized/garuda-dr460nized.png/>
 
