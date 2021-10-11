@@ -1,5 +1,5 @@
 <h1 align="center">Hey stranger 👋, I'm Nico!</h1>
-<h3 align="center">I am an avid Linux enthusiast and hobby developer from Germany.</h3>
+<h3 align="center">I am an avid Linux enthusiast and hobby developer from Germany 🇩🇪</h3>
 
 Im currently working as:
 - Developer at [Garuda Linux](https://garudalinux.org), maintaining the servers & some of its editions. [![Download Garuda Linux](https://img.shields.io/sourceforge/dt/garuda-linux.svg)](https://sourceforge.net/projects/garuda-linux/files/latest/download) If you love dark and blurry interfaces, the dr460nized edition might be something for you 🐉
