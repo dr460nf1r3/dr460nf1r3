@@ -6,7 +6,7 @@ Im currently working as:
 
 <img src=https://gitlab.com/garuda-linux/website/garuda/-/raw/master/images/garuda/download/dr460nized/garuda-dr460nized.png/>
 
-- Maintainer at [Chaotic-AUR](https://chaotic.cx), an Arch user repository which also happens to be the repo of Garuda Linux.
+- Main maintainer at [Chaotic-AUR](https://chaotic.cx), an Arch user repository which also happens to be the repo of Garuda Linux.
 
 
 There is also Librewolf fork called [Firedragon](https://github.com/dr460nf1r3/firedragon-browser) that I'm maintaining! It features enhanced KDE integration and sane default settings.
