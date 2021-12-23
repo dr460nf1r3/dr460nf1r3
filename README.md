@@ -11,6 +11,6 @@ After having found a deep passion for Linux and all kind of FOSS projects, I'm n
 - Maintainer of [Firedragon](https://github.com/dr460nf1r3/firedragon-browser), a Librewolf fork which focuses on providing better KDE integration and saner default settings. Since I'm a huge fan of selfhosting services, it integrates some of our hosted services such as our own Firefox syncserver, searX and Whoogle.
   <img src=https://gitlab.com/dr460nf1r3/dragonwolf-settings/-/raw/master/home.png/>
 
-<p align="center">![trophy](https://github-profile-trophy.vercel.app/?username=dr460nf1r3&theme=dracula&row=1)</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dr460nf1r3&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dr460nf1r3&label=Profile%20views&color=0e75b6&style=flat" alt="dr460nf1r3" /> </p>
