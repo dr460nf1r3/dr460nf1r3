@@ -6,10 +6,8 @@ After having found a deep passion for Linux and all kind of FOSS projects, I'm n
   <img src=https://github.com/dr460nf1r3/dr460nf1r3/raw/main/garuda.png>
 
 - Maintainer of [Chaotic-AUR](https://chaotic.cx), an Arch user repository which also happens to be the repo of Garuda Linux. It can be used to prevent long compilation times of [AUR packages](https://aur.archlinux.org) that can take hours to complete. Since most packages are getting rebuilt hourly if updates are found, it is very easy to get always the latest packages and follow development processes.
-  <img src=https://github.com/dr460nf1r3/dr460nf1r3/raw/main/chaotic-aur.png>
 
 - Maintainer of [Firedragon](https://github.com/dr460nf1r3/firedragon-browser), a Librewolf fork which focuses on providing better KDE integration and saner default settings. Since I'm a huge fan of selfhosting services, it integrates some of our hosted services such as our own [Firefox syncserver](ffsync.garudalinux.org), [searX](https://searx.garudalinux.org) and [Whoogle](https://search.garudalinux.org).
-  <img src=https://gitlab.com/dr460nf1r3/dragonwolf-settings/-/raw/master/home.png/>
 
 <h3 align="center">Here some fancy GitHub statistics 💫</h3>
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=dr460nf1r3&theme=dracula&row=1) </p>
