@@ -10,7 +10,7 @@ After having found a deep passion for Linux and all kinds of FOSS projects, I'm 
 
 - Maintainer of [Firedragon](https://github.com/dr460nf1r3/firedragon-browser), a Librewolf fork that focuses on providing better KDE integration and saner default settings. Since I'm a huge fan of self-hosting services, it integrates some of our hosted services such as our own [Firefox sync server](ffsync.garudalinux.org), [searX](https://searx.garudalinux.org), and [Whoogle](https://search.garudalinux.org).
 
-I'm also self-hosting several open-source frontends of proprietary services such as [Libreddit](https://reddit.dr460nf1r3.org), [Nitter](https://twitter.dr460nf1r3.org), [searxNG](https://searx.dr460nf1r3.org), [Whoogle](https://search.dr460nf1r3.org), [Bibliogram](https://insta.dr460nf1r3.org) or [Lingva](https://lingva.dr460nf1r3.org) - free for everyone to use. 
+I'm also self-hosting several open-source frontends of proprietary services such as [Libreddit](https://reddit.dr460nf1r3.org), [Nitter](https://twitter.dr460nf1r3.org), [searxNG](https://searx.dr460nf1r3.org), [Whoogle](https://search.dr460nf1r3.org), [Bibliogram](https://insta.dr460nf1r3.org) or [Lingva](https://translate.dr460nf1r3.org) - free for everyone to use. 
 
 <h3 align="center">I'm already working with and learning the following technologies:</h3>
 <p align="center">
