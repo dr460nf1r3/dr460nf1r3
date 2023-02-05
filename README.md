@@ -3,7 +3,7 @@
 
 After having found a deep passion for Linux and all kinds of FOSS projects, I'm now active as:
 
-- Maintainer at [Garuda Linux](https://garudalinux.org). Here, I'm mostly maintaining the servers & some of their editions. I also take care of a lot of other stuff that needs to be done. If you love dark and blurry interfaces, the dr460nized edition might be something for you! 🐉 This is also the setup I use on my machines. Recently, I helped to migrate our [Ansible-based Arch Linux servers](https://github.com/garuda-linux/infrastructure)](https://gitlab.com/garuda-linux/infrastructure) to [NixOS](https://github.com/garuda-linux/infrastructure-nix).
+- Maintainer at [Garuda Linux](https://garudalinux.org). Here, I'm mostly maintaining the servers & some of their editions. I also take care of a lot of other stuff that needs to be done. If you love dark and blurry interfaces, the dr460nized edition might be something for you! 🐉 This is also the setup I use on my machines. Recently, I helped to migrate our [Ansible-based Arch Linux servers](https://github.com/garuda-linux/infrastructure) to [NixOS](https://github.com/garuda-linux/infrastructure-nix).
   [![Download Garuda Linux](https://img.shields.io/sourceforge/dt/garuda-linux.svg)](https://sourceforge.net/projects/garuda-linux/files/latest/download)
 
 - The lead maintainer of [Chaotic-AUR](https://chaotic.cx), an Arch Linux user repository that also happens to be the repo of Garuda Linux. It can be used to prevent long compilation times of [AUR packages](https://aur.archlinux.org) that would otherwise take hours to complete. Since most packages are getting rebuilt hourly if updates are found, it is very easy to get always the latest packages and follow development processes.
