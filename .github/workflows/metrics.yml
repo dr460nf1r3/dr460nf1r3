@@ -1,5 +1,5 @@
 ---
-name: Update metrics
+name: Update metrics 📊
 on:
   schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Mildly interesting facts
+      - name: Mildly interesting facts 🤨
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
@@ -21,14 +21,14 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Europe/Berlin
           name: Example
-      - name: GitHub stats
+      - name: GitHub stats 🎉
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
-      - name: Achievements
+      - name: Achievements 🏁
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg

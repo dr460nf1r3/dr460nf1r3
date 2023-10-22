@@ -15,14 +15,15 @@ After having found a deep passion for Linux, automation, declarative infrastruct
 
 - maintaining [FireDragon](https://github.com/dr460nf1r3/firedragon-browser), a Librewolf fork that focuses on providing better KDE integration and saner default settings. Since I'm a huge fan of self-hosting services, it integrates some of our hosted services such as our own [Firefox sync server](https://ffsync.garudalinux.org), [searX](https://searx.garudalinux.org), and [Whoogle](https://search.garudalinux.org).
 
-<h3 align="center">I'm already working with and learning the following technologies:</h3>
+<h3 align="center">I'm already working with and learning the following technologies</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Antu_distributor-logo-archlinux.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="40"/>
 </p>
 
-<h3 align="center">Currently, I'm listening to:</h3>
-<p align="center"> <img src=https://spotify-github-profile.vercel.app/api/view?uid=1132640999&cover_image=true&theme=novatorem&show_offline=false&background_color=241f31&bar_color=613583&bar_color_cover=true </p>
+<h3 align="center">Activity</h3>
+<img align="right" width="390" alt="🦑" src="./metrics.plugin.habits.facts.svg">
+<img align="left" width="390" alt="🦑" src="./metrics.classic.svg">
+<img align="left" width="390" alt="🦑" src="./metrics.plugin.achievements.compact.svg">
 
-<h3 align="center">And finally, here some fancy GitHub statistics 💫</h3>
-<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=dr460nf1r3&theme=dracula&row=1) </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dr460nf1r3&label=Profile%20views&color=0e75b6&style=flat" alt="dr460nf1r3" /> </p>
+
+<img align="center" alt="🦑" src="https://spotify-github-profile.vercel.app/api/view?uid=1132640999&cover_image=true&theme=novatorem&show_offline=false&background_color=241f31&bar_color=613583&bar_color_cover=true">
