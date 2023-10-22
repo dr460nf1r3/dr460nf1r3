@@ -1,0 +1,42 @@
+---
+name: Update metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["master", "main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Mildly interesting facts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Berlin
+          name: Example
+      - name: GitHub stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
