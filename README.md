@@ -25,4 +25,8 @@ After having found a deep passion for Linux, automation, declarative infrastruct
 <img align="left" width="390" alt="🦑" src="./metrics.classic.svg">
 <img align="left" width="390" alt="🦑" src="./metrics.plugin.achievements.compact.svg">
 
-<img align="center" alt="🦑" src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1132640999&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1132640999&redirect=true)>
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1132640999&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1132640999&redirect=true)
+
+</div>
