@@ -3,7 +3,7 @@
 
 After having found a deep passion for Linux, automation, declarative infrastructure, and all kinds of FOSS projects, I love spending my time:
 
-- maintaining [Garuda Linux](https://garudalinux.org). Here, I'm mostly maintaining the servers and the package repository. I also take care of a lot of other stuff that needs to be done. If you love dark and blurry interfaces, the dr460nized edition might be something for you! 🐉 Besides being a Linux distribution, we provide web services like [Matrix](https://element.garudalinux.org), [Mastodon](https://social.garudalinux.org) and [Lemmy](https://lemmy.garudalinux.org) amongst [others](https://start.garudalinux.org).
+- maintaining [Garuda Linux](https://garudalinux.org). Here, I'm mostly maintaining the servers and the package repository. I also take care of a lot of other stuff that needs to be done. If you love dark and blurry interfaces, the dr460nized edition might be something for you! 🐉 Besides being a Linux distribution, we provide web services like [Mastodon](https://social.garudalinux.org) and [Lemmy](https://lemmy.garudalinux.org) amongst [others](https://start.garudalinux.org).
 
   [![Download Garuda Linux](https://img.shields.io/sourceforge/dt/garuda-linux.svg)](https://sourceforge.net/projects/garuda-linux/files/latest/download)
 
@@ -14,6 +14,11 @@ After having found a deep passion for Linux, automation, declarative infrastruct
   [![built with nix](https://img.shields.io/static/v1?logo=nixos&logoColor=white&label=&message=Built%20with%20Nix&color=41439a)](https://builtwithnix.org)
 
 - maintaining [FireDragon](https://github.com/dr460nf1r3/firedragon-browser), a [Floorp](https://floorp.app/en) fork that focuses on providing better KDE integration and saner default settings. Since I'm a huge fan of self-hosting services, it integrates some of our hosted services such as our own [Firefox sync server](https://ffsync.garudalinux.org), [searX](https://searx.garudalinux.org), and [Whoogle](https://search.garudalinux.org).
+
+Some other things I'm working on or have worked on in the past include:
+
+- [Container Manager](https://github.com/dr460nf1r3/container-manager), a NestJS backend for managing Docker in Docker containers for CI/CD pipelines setting up per-branch test environments.
+- [Garuda Linux startpage](https://start.garudalinux.org), a simple general-purpose startpage for Garuda Linux users written in Angular.
 
 <h3 align="center">I'm already working with and learning the following technologies</h3>
 <p align="center">
