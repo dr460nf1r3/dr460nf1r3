@@ -1,5 +1,5 @@
 <h2 align="center">Hey stranger, I'm Nico! 👋</h2>
-<h3 align="center">I am an avid Linux enthusiast and developer in training from Germany 🇩🇪</h3>
+<h3 align="center">I am an avid Linux enthusiast and professional developer from Germany 🇩🇪</h3>
 
 After having found a deep passion for Linux, DevOps, and all kinds of FOSS projects, I love spending my time:
 
